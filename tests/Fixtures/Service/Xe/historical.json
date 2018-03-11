@@ -1,0 +1,11 @@
+{
+    "terms": "http://www.xe.com/legal/dfs.php",
+    "privacy": "http://www.xe.com/privacy.php",
+    "from": "EUR",
+    "amount": 1.0,
+    "timestamp": "2010-03-10T00:00:00Z",
+    "to": [{
+            "quotecurrency": "GBP",
+            "mid": 0.9061699263
+        }]
+}
